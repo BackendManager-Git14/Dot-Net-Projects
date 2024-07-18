@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Scrap_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d259e357044a86d421dd19ca2cbb732ae92a2e56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+763c223e98a8eab574b1a1fdae1b20338315a74b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scrap_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Scrap_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
