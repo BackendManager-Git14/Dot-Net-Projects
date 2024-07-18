@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Scrap_Project.Models;
 
 namespace Scrap_Project.Controllers
 {
@@ -8,5 +9,15 @@ namespace Scrap_Project.Controllers
         {
             return View();
         }
+        public IActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Create(user_data model)
+        {
+            return View();
+        }
+
     }
 }
