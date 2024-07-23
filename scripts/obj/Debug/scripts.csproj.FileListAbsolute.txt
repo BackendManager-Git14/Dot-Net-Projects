@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\scripts\bin\Debug\scripts.exe.config
+C:\Users\Administrator\source\repos\scripts\bin\Debug\scripts.exe
+C:\Users\Administrator\source\repos\scripts\bin\Debug\scripts.pdb
+C:\Users\Administrator\source\repos\scripts\obj\Debug\scripts.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\scripts\obj\Debug\scripts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\scripts\obj\Debug\scripts.exe
+C:\Users\Administrator\source\repos\scripts\obj\Debug\scripts.pdb
