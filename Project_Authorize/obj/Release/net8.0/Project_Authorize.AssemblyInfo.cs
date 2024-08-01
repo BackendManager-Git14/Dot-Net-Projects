@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project_Authorize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+babf826728a19e4079994f12b03a1e34069bd661")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a58c08ac0c11470af956dc404f13d62da2054c89")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project_Authorize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project_Authorize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
