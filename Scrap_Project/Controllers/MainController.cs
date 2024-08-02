@@ -11,7 +11,7 @@ namespace Scrap_Project.Controllers
     {
         string constring = Configuration.GetConnectionString("DefaultConnection");
 
-        SqlConnection con = new SqlConnection()
+        SqlConnection con = new SqlConnection();
         public IActionResult Index()
         {
             return View();

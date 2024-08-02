@@ -29,3 +29,4 @@ C:\Users\Administrator\source\repos\Dot-Net-Projects\Scrap_Project\obj\Debug\net
 C:\Users\Administrator\source\repos\Dot-Net-Projects\Scrap_Project\obj\Debug\net8.0\Scrap_Project.pdb
 C:\Users\Administrator\source\repos\Dot-Net-Projects\Scrap_Project\obj\Debug\net8.0\Scrap_Project.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\Dot-Net-Projects\Scrap_Project\obj\Debug\net8.0\ref\Scrap_Project.dll
+C:\Users\Administrator\source\repos\Dot-Net-Projects\Scrap_Project\obj\Debug\net8.0\Scrap_Project.csproj.AssemblyReference.cache
