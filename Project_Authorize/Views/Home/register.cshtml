@@ -1,0 +1,61 @@
+﻿@model Project_Authorize.Models.register
+
+@{
+    ViewData["Title"] = "register";
+}
+
+<h4>register</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="u_name" class="control-label"></label>
+                <input asp-for="u_name" class="form-control" />
+                <span asp-validation-for="u_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="pswd" class="control-label"></label>
+                <input asp-for="pswd" class="form-control" />
+                <span asp-validation-for="pswd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="con_pswd" class="control-label"></label>
+                <input asp-for="con_pswd" class="form-control" />
+                <span asp-validation-for="con_pswd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="contact" class="control-label"></label>
+                <input asp-for="contact" class="form-control" />
+                <span asp-validation-for="contact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="img_path" class="control-label"></label>
+                <input asp-for="img_path" class="form-control" />
+                <span asp-validation-for="img_path" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

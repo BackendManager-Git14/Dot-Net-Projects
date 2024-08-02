@@ -3,5 +3,9 @@
 ################################################################################
 
 /.vs
+<<<<<<< HEAD
 /Scrap_Project/.vs/Scrap_Project
 /Scrap_Project/.vs/ProjectEvaluation
+=======
+/Project_Authorize/.vs/Project_Authorize
+>>>>>>> a9c34d7ce76afde6146432b8465d3e8e0f0c8dab
