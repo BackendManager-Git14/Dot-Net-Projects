@@ -20,7 +20,16 @@ namespace Project_Authorize.Controllers
         }
         public IActionResult register()
         {
-            return View();
+            return View("register");
+        }
+        [HttpPost]
+        public IActionResult register(register model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View("register");
+            }
+            return View("Index");
         }
 
         public IActionResult Privacy()
